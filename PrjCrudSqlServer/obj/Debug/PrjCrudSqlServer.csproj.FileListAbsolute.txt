@@ -1,0 +1,9 @@
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\bin\Debug\PrjCrudSqlServer.exe.config
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\bin\Debug\PrjCrudSqlServer.exe
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\bin\Debug\PrjCrudSqlServer.pdb
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\obj\Debug\PrjCrudSqlServer.csprojResolveAssemblyReference.cache
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\obj\Debug\PrjCrudSqlServer.Form1.resources
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\obj\Debug\PrjCrudSqlServer.Properties.Resources.resources
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\obj\Debug\PrjCrudSqlServer.csproj.GenerateResource.Cache
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\obj\Debug\PrjCrudSqlServer.exe
+c:\users\teach07\documents\visual studio 2012\Projects\PrjCrudSqlServer\PrjCrudSqlServer\obj\Debug\PrjCrudSqlServer.pdb
